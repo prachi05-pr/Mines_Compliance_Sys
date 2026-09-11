@@ -1,0 +1,6 @@
+{
+  "name": "AI-Enabled Coal Mine Governance Platform",
+  "description": "Ministry of Coal (SIH 2026 #26024) statutory compliance, inspection workflow, AI violation detection, operational anomaly, explainable risk, and alert governance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
